@@ -1,5 +1,5 @@
 # FastAPI Todo App
-A simple python app consist of fastapi, mongoDB and dockerfile.
+A simple python app with fastapi, mongoDB and dockerfile.
 
 ## Project Structure
 
